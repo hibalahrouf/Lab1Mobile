@@ -1,5 +1,8 @@
 # LAB 1 : Mise en place du lab 
 1- Vérification de l’intégrité du fichier
+<p align="center">
+  <img src="1.png" width="400">
+</p>
 Le hash SHA-256 fourni par la page officielle correspond à celui obtenu par la commande, ce qui confirme l’intégrité du fichier Mobexler.ova.
 
 2- Configuration du VM 
