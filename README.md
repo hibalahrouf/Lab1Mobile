@@ -9,7 +9,12 @@
 Le hash SHA-256 fourni par la page officielle correspond à celui obtenu par la commande, ce qui confirme l’intégrité du fichier Mobexler.ova.
 
 2- Configuration du VM 
-
+<p align="left">
+  <img src="10.png" width="600">
+</p>
+<p align="left">
+  <img src="11.png" width="600">
+</p>
 3- Vérification de l’installation et de la connectivité réseau
 
 
